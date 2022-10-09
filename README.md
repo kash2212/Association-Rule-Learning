@@ -1,1 +1,2 @@
 # Association-Rule-Learning
+The Groceries dataset consists of 38765 rows of transactions of items within two years with date of purchase and customer IDs. I arranged the transactions of each customers in a different list and used it to analyze the offers that the shopkeeper can apply on two items to yield him good profit. I used the apriori model here with a min. support of 0.002 and min, confidence of 0.2.
